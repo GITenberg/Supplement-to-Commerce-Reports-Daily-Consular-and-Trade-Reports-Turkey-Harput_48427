@@ -1,10 +1,16 @@
 _repo: Supplement-to-Commerce-Reports-Daily-Consular-and-Trade-Reports-Turkey-Harput_48427
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48427-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Leslie A.
     gutenberg_agent_id: '44793'
     url: http://www.gutenberg.org/2009/agents/44793
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48427#Supplement-to-Commerce-Reports-Daily-Consular-and-Trade-Reports-Turkey-Harput
 gutenberg_issued: '2015-03-07'
 gutenberg_type: Text
 identifiers:
